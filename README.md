@@ -1,7 +1,7 @@
 # UniHub Store Data-Analysis (Interactive Dashboard creation using MS Excel)
 
 ## Project Objective
-The UniHub Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
+The UniHub Store wants to create an annual sales report for 2025. So that, the owner of the store can understand their customers and grow more sales in 2026.
 
 ## Dataset used
 - <a href="https://github.com/TrishalaDas23/UniHub-Store-Data-Analysis-using-MS-Excel/blob/main/1.%20UniHub%20Data%20Analysis.xlsx">UniHub Store Data</a>
