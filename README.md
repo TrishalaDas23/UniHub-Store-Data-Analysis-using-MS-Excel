@@ -36,8 +36,7 @@ The UniHub Store wants to create an annual sales report for 2022. So that, the o
 
 •	Merged all pivot tables into one dashboard and applied slicer to make dynamic.
 
-Dashboard
-
+## Dashboard
 
 ![](https://github.com/TrishalaDas23/UniHub-Store-Data-Analysis-using-MS-Excel/blob/main/2.%20Dashboard_Image.png)
  
